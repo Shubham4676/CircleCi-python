@@ -7,5 +7,5 @@ python main.py
 
 ### Test the code
 ```
-python tests.py
+python test.py
 ```
